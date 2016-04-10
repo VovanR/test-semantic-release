@@ -11,6 +11,37 @@
 
 > Test
 
+## Install
+```
+npm install -g commitizen
+```
+
+
+
+
+
+```
+npm install -g semantic-release-cli
+```
+*If you see*
+```
+Package gnome-keyring-1 was not found in the pkg-config search path.
+Perhaps you should add the directory containing `gnome-keyring-1.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'gnome-keyring-1' found
+```
+*Do*
+```
+sudo apt-key update
+sudo apt-get update
+sudo apt-get install libgnome-keyring-dev
+```
+
+```
+cd your-module
+semantic-release-cli setup
+```
+
 ## License
 
 MIT © [Vladimir Rodkin](https://github.com/VovanR)

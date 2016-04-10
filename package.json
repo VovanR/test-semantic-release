@@ -1,0 +1,26 @@
+{
+  "name": "test-semantic-release",
+  "version": "0.1.0",
+  "description": "Test",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "prepush": "npm test",
+    "test": "xo && nyc ava"
+  },
+  "repository": "VovanR/test-semantic-release",
+  "author": "Vladimir Rodkin <mail@vovanr.com> (http://vovanr.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VovanR/test-semantic-release/issues"
+  },
+  "homepage": "https://github.com/VovanR/test-semantic-release",
+  "devDependencies": {
+    "ava": "^0.14.0",
+    "coveralls": "^2.11.9",
+    "husky": "^0.11.4",
+    "nyc": "^6.2.1",
+    "xo": "^0.14.0"
+  }
+}

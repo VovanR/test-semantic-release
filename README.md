@@ -25,14 +25,14 @@ MIT © [Vladimir Rodkin](https://github.com/VovanR)
 [codestyle-image]: https://img.shields.io/badge/code_style-XO-5ed9c7.svg?style=flat-square
 
 
-[npm-url]: https://npmjs.org/package/react-price
-[npm-image]: https://img.shields.io/npm/v/react-price.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/test-semantic-release
+[npm-image]: https://img.shields.io/npm/v/test-semantic-release.svg?style=flat-square
 
-[travis-url]: https://travis-ci.org/VovanR/react-price
-[travis-image]: https://img.shields.io/travis/VovanR/react-price.svg?style=flat-square
+[travis-url]: https://travis-ci.org/VovanR/test-semantic-release
+[travis-image]: https://img.shields.io/travis/VovanR/test-semantic-release.svg?style=flat-square
 
-[depstat-url]: https://david-dm.org/VovanR/react-price
-[depstat-image]: https://david-dm.org/VovanR/react-price.svg?style=flat-square
+[depstat-url]: https://david-dm.org/VovanR/test-semantic-release
+[depstat-image]: https://david-dm.org/VovanR/test-semantic-release.svg?style=flat-square
 
-[depstat-dev-url]: https://david-dm.org/VovanR/react-price
-[depstat-dev-image]: https://david-dm.org/VovanR/react-price/dev-status.svg?style=flat-square
+[depstat-dev-url]: https://david-dm.org/VovanR/test-semantic-release
+[depstat-dev-image]: https://david-dm.org/VovanR/test-semantic-release/dev-status.svg?style=flat-square

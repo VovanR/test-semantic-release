@@ -1,3 +1,5 @@
-module.exports = function add(a, b) {
-	return a + b;
+module.exports = function add() {
+	return Array.prototype.reduce.call(arguments, function (a, b) {
+		return a + b;
+	}, 0);
 };

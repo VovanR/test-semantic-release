@@ -1,3 +1,9 @@
+<a name="0.3.0"></a>
+# [0.3.0](https://github.com/vovanr/test-semantic-release/compare/v0.2.0...v0.3.0) (2016-04-10)
+
+
+
+
 <a name="0.2.0"></a>
 # 0.2.0 (2016-04-10)
 

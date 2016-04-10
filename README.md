@@ -18,8 +18,6 @@ npm install -g commitizen
 
 
 
-
-
 ```
 npm install -g semantic-release-cli
 ```
